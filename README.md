@@ -9,7 +9,7 @@ Create Jupyter Notebooks in python by cliking at the badge above or at the link 
 Anybody can open a copy of any github-hosted notebook within Colab. To make it easier to give people access to live views of GitHub-hosted notebooks,
 colab provides a [shields.io](http://shields.io/)-style badge, which appears as follows:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/donatog/jupyter_nbs/blob/master/index.ipynb)
 
 The markdown for the above badge is the following:
 
